@@ -1,1 +1,2 @@
 # odin-recipes
+This is a Recipes Project in which I will practice my HTML knowledge acquired.I this project I will build a basic recipes website. By the time I finish this project, I will have perfected all my knowledge about HTML.
